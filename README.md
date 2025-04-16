@@ -6,7 +6,7 @@ The user can toggle between the two workflows, view and manage alert cards, and 
 
 ## Thought Process
 
-The primary goal of this project was to create a clear and intuitive user journey for managing alerts while maintaining a modern and responsive design. The application is structured around reusable components (`Steps`, `AlertFlow`, `VerticalAlertCard`, etc.) to ensure modularity and reduce redundancy. React's state management and hooks were used to handle dynamic updates and transitions, ensuring the UI remains responsive to user interactions. Tailwind CSS was chosen for styling due to its utility-first approach, which allows for rapid prototyping and consistent design.
+The primary goal of this project was to create a clear and intuitive user journey for managing alerts while maintaining a modern and responsive design. The application is structured around reusable components (`Steps`, `AlertFlow`, `VerticalAlertCard`, etc.) to ensure modularity and reduce redundancy. React's state management were used to handle dynamic updates and transitions, ensuring the UI remains responsive to user interactions. Tailwind CSS was chosen for styling due to its utility-first approach, which allows for rapid prototyping and consistent design.
 
 Animations were integrated to enhance the user experience, making transitions between states smooth and engaging. The logic for the alert flows was carefully designed to ensure clarity and simplicity, with each step of the process visually represented to guide the user. The project also aimed to balance functionality with aesthetics, ensuring the application is both practical and visually appealing.
 
