@@ -6,10 +6,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "install-client": "npm install",
-    "build-client": "npm run build",
-    "start-client": "npm run start"
+    "lint": "next lint"
   },
   "dependencies": {
     "clsx": "^2.1.1",
